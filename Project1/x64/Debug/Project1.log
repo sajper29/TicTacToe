@@ -1,0 +1,31 @@
+﻿  Game.cpp
+C:\Users\sajpe\Desktop\Tic\SD\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: interfejs niebędący interfejsem dll class "std::runtime_error"użyto jako podstawowego dla interfejsu biblioteki dll class "sf::Exception"
+  (kompilowanie pliku źródłowego „Game.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+      zobacz deklarację „std::runtime_error”
+      C:\Users\sajpe\Desktop\Tic\SD\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      zobacz deklarację „sf::Exception”
+  
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(38,14): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(38,14): warning C4244:         with
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(38,14): warning C4244:         [
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(38,14): warning C4244:             T=unsigned int
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(38,14): warning C4244:         ]
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(39,15): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(39,15): warning C4244:         with
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(39,15): warning C4244:         [
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(39,15): warning C4244:             T=unsigned int
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(39,15): warning C4244:         ]
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(143,21): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(144,21): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(155,23): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(156,23): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(190,23): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(191,23): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(134,21): warning C4101: "y": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(134,6): warning C4101: "move": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(134,19): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\sajpe\Desktop\Tic\SD\Server\Game.cpp(322,1): warning C4715: "Game::is_Legal”: niewszystkie ścieżki kodu zwracają wartość
+  Project1.vcxproj -> C:\Users\sajpe\Desktop\Tic\SD\Server\x64\Debug\Project1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
